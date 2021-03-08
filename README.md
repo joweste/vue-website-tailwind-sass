@@ -1,6 +1,6 @@
 # wildsite - sample website with vue.js and tailwind
 
-![image](./public/landpage.jpg)
+![image](public/landpage.jpg)
 
 ## Project setup
 
