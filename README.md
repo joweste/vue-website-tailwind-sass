@@ -1,6 +1,6 @@
 # wildsite - sample website with vue.js and tailwind
 
-![image](https://github.com/joweste/vue-website-tailwind-sass/blob/master/landpage.jpg?raw=true)
+![image](https://github.com/joweste/vue-website-tailwind-sass/blob/master/public/landpage.jpg?raw=true)
 
 ## Project setup
 
