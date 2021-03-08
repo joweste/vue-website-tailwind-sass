@@ -1,6 +1,6 @@
 # wildsite - sample website with vue.js and tailwind
 
-![image](https://github.com/joweste/vue-website-tailwind-sass/blob/master/public/landpage.jpg?raw=true)
+![image](/public/landpage.jpg?raw=true "Optional Title")
 
 ## Project setup
 
