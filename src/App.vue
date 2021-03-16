@@ -19,21 +19,4 @@ export default {
 };
 </script>
 
-<style lang="scss">
-* {
-  margin: 0;
-  padding: 0;
-}
-body {
-  background: black;
-  color: white;
-}
-a {
-  text-decoration: none;
-}
-
-:root {
-  --margin-nav-li: 20px;
-  --color-button: #cd0061;
-}
-</style>
+<style src="@/assets/css/app.css"></style>

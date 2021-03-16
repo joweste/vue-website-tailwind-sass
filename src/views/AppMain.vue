@@ -21,10 +21,4 @@ export default {
 };
 </script>
 
-<style lang="postcss">
-/*structure*/
-.structure {
-  margin: auto;
-  padding: 0 1.5rem;
-}
-</style>
+<style lang="postcss"></style>

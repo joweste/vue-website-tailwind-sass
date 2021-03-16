@@ -1,0 +1,21 @@
+* {
+    margin: 0;
+    padding: 0;
+  }
+  body {
+    background: black;
+    color: white;
+  }
+  a {
+    text-decoration: none;
+  }
+  
+  :root {
+    --margin-nav-li: 20px;
+    --color-button: #cd0061;
+  }
+  /*structure*/
+  .structure {
+    margin: auto;
+    padding: 0 1.5rem;
+  }
