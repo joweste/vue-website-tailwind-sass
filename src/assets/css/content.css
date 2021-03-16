@@ -51,7 +51,8 @@
     display: inline-block;
     width: auto;
     position: relative;
-    padding: 2rem 3rem !important;
+    padding: 2em 3em !important;
+    margin: 1em;
   }
   .box-outlines::before,
   .box-outlines::after {
